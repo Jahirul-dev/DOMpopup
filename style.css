@@ -17,6 +17,10 @@ button {
   height: 100%;
   display: none;
 }
+.card {
+  width: auto;
+  height: auto;
+}
 
 .popup {
   font-family: arial;
